@@ -11,10 +11,10 @@
 📫 How to reach me: cherynjjaeshin@gmail.com
 
 <a href="https://github.com/shincheryn/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shincheryn" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shincheryn&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/shincheryn/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shincheryn&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <!--
