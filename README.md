@@ -1,6 +1,6 @@
 ## Hi, my name's Cheryn 👋
 
-🔭 Currently working on: a customized boba shop with unique flavors 🧋 </br>
+🔭 Currently working on: a customized boba shop with unique flavors🧋 </br>
 🌱 Practicing: Python & Javascript </br>
 👯 Looking to collaborate on: a new product idea! I have an extensive background in marketing and passion in product and design. </br>
 💬 Ask me about: boba, cats, books </br>
