@@ -4,7 +4,7 @@
 🌱 Practicing: Python & Javascript </br>
 👯 Looking to collaborate on: a new product idea! I have an extensive background in marketing and passion in product and design. </br> 
 💬 Ask me about: boba, cats, books </br>
-📫 How to reach me: cherynjjaeshin@gmail.com </br> 
+📫 How to reach me: cherynjjaeshin@gmail.com </br>
 
 <a href="https://github.com/shincheryn/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shincheryn&show_icons=true&theme=transparent" />
