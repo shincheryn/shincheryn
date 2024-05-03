@@ -1,7 +1,7 @@
 ## Hi, my name's Cheryn!
 
 🔭 Currently working on: a new task manager project 👀 </br>
-🌱 Practicing: Python & Javascript </br>
+🌱 Practicing: Python & Javascript </br> 
 👯 Looking to collaborate on: a new product idea! I have an extensive background in marketing and passion in product and design. </br> 
 💬 Ask me about: boba, cats, books </br>
 📫 How to reach me: cherynjjaeshin@gmail.com </br>
