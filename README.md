@@ -1,4 +1,4 @@
-## Hi, my name's Cheryn!
+## Hi, my name's Cheryn! 
 
 🔭 Currently working on: a new task manager project 👀 </br>
 🌱 Practicing: Python & Javascript </br>  
